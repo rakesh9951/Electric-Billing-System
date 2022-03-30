@@ -1,0 +1,7 @@
+#include "fun.h"
+struct subscriber
+{
+char servicenumber[20];
+char name[50];
+float amount;
+}s;
