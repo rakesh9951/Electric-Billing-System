@@ -1,5 +1,7 @@
 # Electric-Billing-System
 generation of electric bills
+![image](https://user-images.githubusercontent.com/61750036/161422969-01a450cc-f5b4-4317-9094-208b4c1b87e0.png)
+![image](https://user-images.githubusercontent.com/61750036/161422975-e53a02a9-ceab-41b9-b16f-00425efc24e1.png)
 
 Introduction :
 Electric Billing System is an application that enables users to add and store Electric BILLING Records.
